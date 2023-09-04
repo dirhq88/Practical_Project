@@ -19,6 +19,9 @@ public class WordManager {
             else if(menu == 1){
                 wordCRUD.listAll();
             }
+            else if(menu == 5){ // update
+                wordCRUD.updateItem();
+            }
         }
         System.out.println("WordManager!!!");
     }
