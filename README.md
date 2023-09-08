@@ -8,19 +8,16 @@
 
 
 ## searchLevel function
-![스크린샷(633).png](..%2F..%2FOneDrive%2F%BB%E7%C1%F8%2FScreenshots%2F%BD%BA%C5%A9%B8%B0%BC%A6%28633%29.png)
+![스크린샷(633)](https://github.com/dirhq88/Practical_Project/assets/126394721/95d23f1d-11fe-4d13-a65e-670210a9516f)
 
 ## searchWord function
-![스크린샷(634).png](..%2F..%2FOneDrive%2F%BB%E7%C1%F8%2FScreenshots%2F%BD%BA%C5%A9%B8%B0%BC%A6%28634%29.png)
-
+![스크린샷(634)](https://github.com/dirhq88/Practical_Project/assets/126394721/7eafbe84-f5cf-4d01-8ea8-75f3231cae8f)
 ## updateItem function
-![스크린샷(635).png](..%2F..%2FOneDrive%2F%BB%E7%C1%F8%2FScreenshots%2F%BD%BA%C5%A9%B8%B0%BC%A6%28635%29.png)
-
+![스크린샷(635)](https://github.com/dirhq88/Practical_Project/assets/126394721/816788c1-781b-4996-8676-f33dd103ff15)
 ## deleteItme function
-![스크린샷(637).png](..%2F..%2FOneDrive%2F%BB%E7%C1%F8%2FScreenshots%2F%BD%BA%C5%A9%B8%B0%BC%A6%28637%29.png)
+![스크린샷(637)](https://github.com/dirhq88/Practical_Project/assets/126394721/718b95c9-aea6-4c2f-828c-160eeedd941c)
 
 ## loadFile & saveFile function
-![스크린샷(633).png](..%2F..%2FOneDrive%2F%BB%E7%C1%F8%2FScreenshots%2F%BD%BA%C5%A9%B8%B0%BC%A6%28633%29.png)
-![스크린샷(638).png](..%2F..%2FOneDrive%2F%BB%E7%C1%F8%2FScreenshots%2F%BD%BA%C5%A9%B8%B0%BC%A6%28638%29.png)
-
+![스크린샷(632)](https://github.com/dirhq88/Practical_Project/assets/126394721/9f31fcfb-ebe7-440c-b227-f8bfa2fd6dd8)
+![스크린샷(638)](https://github.com/dirhq88/Practical_Project/assets/126394721/363852f7-0fd1-4633-bd16-5a799d53315b)
 수정 사항과 삭제 내역이 반영 됨을 확인할 수 있다.
